@@ -1,0 +1,8 @@
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\bin\Debug\Graphics.exe.config
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\bin\Debug\Graphics.exe
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\bin\Debug\Graphics.pdb
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\obj\Debug\Graphics.exe
+C:\!!Projects\!!!C# Graphics Сфера\Graphics\Graphics\obj\Debug\Graphics.pdb
